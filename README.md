@@ -11,7 +11,7 @@ Implemented PIN-based authentication with a maximum of three attempts.
 Users can check their current balance.
 - Transaction Handling :
  Supports deposit and withdrawal operations with validation checks for sufficient balance.
--User Interface :
+- User Interface :
 Simple and intuitive command-line interface for user interaction.
 
 Technical Skills : 
